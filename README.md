@@ -16,7 +16,7 @@ Clone or download the repository
 
 azure-blob-ip-lookup takes arguments for the absolute paths of the logs, the file of the ip's to check against, and the desired output.
 
-`python3 azure-blob-ip-lookup </home/jacob/Documents/y=2020> </home/jacob/Documents/suspicious-ips.txt> </home/jacob/Documents>`
+`python3 azure-blob-ip-lookup /home/jacob/Documents/y=2020 /home/jacob/Documents/suspicious-ips.txt /home/jacob/Documents`
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
